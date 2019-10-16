@@ -1,0 +1,72 @@
+.FormComponent {
+    margin-top: 50px;
+}
+
+.Message--success {
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    padding: 15px;
+    box-sizing: border-box;
+    width: 65%;
+    border: 1px;
+    background-color: white;
+    border: 1px solid green;
+    border-radius: 5px 5px 5px 5px;
+    border-right: 50px solid green;
+
+}
+
+.Message--error {
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    padding: 15px;
+    box-sizing: border-box;
+    width: 65%;
+    border: 1px;
+    background-color: white;
+    border: 1px solid red;
+    border-radius: 5px 5px 5px 5px;
+    border-right: 50px solid red;
+
+}
+
+.FormComponent-button {
+    color: white;
+    background-color: #4682B4;
+    border: 0px ;
+    border-radius: 5px 5px 5px 5px;
+    padding: 15px;
+    margin-right: 230px;
+    font-size: 1em;
+    
+}
+
+.u-background {
+    background-color: #F8F8FF;
+}
+
+.u-allign {
+    text-align: right;
+}
+
+h2 {
+    display: block;
+  font-size: 1em;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  font-family: "Verdana";
+}
+
+p {
+    font-family: "Verdana";
+    font-size: 0.9em;
+}
+a {
+    color:#4682B4;
+    text-decoration: none;
+}
